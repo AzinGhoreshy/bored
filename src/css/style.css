@@ -1,0 +1,31 @@
+@font-face
+{
+    font-family: ConcertOne;
+    src: url("../fonts/ConcertOne.ttf");
+}
+
+.button
+{
+    padding: 15px 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: #60D2E1;
+    color: #115012;
+    transition: 0.2s;
+}
+
+.button:hover
+{
+    box-shadow: 3px 3px #30499F;
+}
+
+div[data-dialog]
+{
+    display: none;
+    position: fixed;
+    top: 40px;
+    left: 40px;
+    bottom: 40px;
+    right: 40px;
+}

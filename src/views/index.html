@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../vendor/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/index.css">
+    <title>Bored</title>
+</head>
+<body>
+    
+    <div id="app" class="d-flex justify-content-center align-items-center">
+
+        <div class="welcome text-center">
+            <h1 class="mb-3">Welcome To Bored</h1>
+            <h3>We Help You not get bored!</h3>
+            <p>{{name}}</p>
+
+            <button class="button w-100 mt-2">Help</button>
+            <button class="button w-100 mt-2" @click="close()">Close</button>
+        </div>
+
+
+        <div  data-dialog>
+            mmd
+        </div>
+
+    </div>
+
+    <script src="../vendor/js/vue.global.js"></script>
+    <script src="../vendor/js/bootstrap.bundle.min.js"></script>
+    <script src="../app.js"></script>
+</body>
+</html>

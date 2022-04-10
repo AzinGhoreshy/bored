@@ -2,7 +2,7 @@
   "name": "bored",
   "version": "1.0.0",
   "description": "We will not let you get bored",
-  "main": "main.js",
+  "main": "src/main.js",
   "license": "MIT",
   "devDependencies": {
     "electron": "^18.0.1"

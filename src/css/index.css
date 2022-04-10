@@ -1,0 +1,26 @@
+#app
+{
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url("../images/bg.png");
+    background-repeat: no-repeat;
+}
+
+#app > .welcome > h1
+{
+    font-family: ConcertOne, sans-serif;
+}
+
+#app > .welcome > h1, #app > .welcome > h3
+{
+    color: #2d2d2d;
+}
+
+#app > .welcome > div
+{
+
+}
