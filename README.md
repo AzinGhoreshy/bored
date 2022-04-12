@@ -9,8 +9,8 @@ We will not let you get bored
 1. <a href="#what-is-bored">What is Bored?</a>
 2. <a href="#how-bored-works">How Bored Works?</a>
 3. <a href="#how-bored-is-made">How Bored is Made?</a>
-4. <a href="#usage">Usage</a>
-5. <a href="#usage">Contact Me</a>
+4. <a href="#installation">Installation</a>
+5. <a href="#contact-me">Contact Me</a>
 
 ### What is bored?
 Bored is an `Desktop Application` build with [Electron.js](https://www.electronjs.org) for `Windows`, `Linux` and `Mac` desktop platforms. Bored helps to enjoys your free or waste time so exciting! Do you like games? Do you like funny or minimal games in your work time? Do you like funny and minimal games available whenever you want? Bored is the solution!
@@ -27,3 +27,14 @@ As we said before, Bored is powered by [Electron.js](https://www.electronjs.org)
 ![Outher](https://img.shields.io/badge/Outher-HTML,%20CSS,%20Figma,%20Github-red)
 
 And also bored can support 3 famous desktop platforms at the same time ( Windows, Mac, Linux )
+
+### Installation
+
+```
+Bored is not released yet!
+```
+
+### Contact Me
+```
+Email : aqrshyzagh@gmail.com
+Phone Number : +98 911 459 3639
