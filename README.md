@@ -16,7 +16,7 @@ We will not let you get bored
 Bored is an `Desktop Application` build with [Electron.js](https://www.electronjs.org) for `Windows`, `Linux` and `Mac` desktop platforms. Bored helps to enjoys your free or waste time so exciting! Do you like games? Do you like funny or minimal games in your work time? Do you like funny and minimal games available whenever you want? Bored is the solution!
 
 ### How Bored Works?
-When you click and open Bored Application, an icon is displayed in the icon bar of your operating system. Every time you click on that icon, a window will open and show you a random minimal and funny game. You can play the game and when the game was over, you can play another random game or you can close that window and keep working.
+When you click and open Bored Application, an icon is displayed in the icon bar of your operating system. Every time you click on that icon, a window will open and show you a random minimal and funny game. You can play the game and when the game is over, you can play another random game or you can close that window and keep working.
 
 ### How Bored is Made?
 As we said before, Bored is powered by [Electron.js](https://www.electronjs.org). Bored follows this Technology Stack:
