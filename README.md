@@ -7,7 +7,7 @@ We will not let you get bored
 ![Developer](https://img.shields.io/badge/developer-Azin%20Ghoreshy-purple)
 ### Navigation
 1. <a href="#what-is-bored">What is Bored?</a>
-2. <a href="#how-bored-works?">How Bored Works?</a>
+2. <a href="#how-bored-works">How Bored Works?</a>
 3. <a href="#documentation">How Bored is Made?</a>
 4. <a href="#usage">Usage</a>
 5. <a href="#usage">Contact Me</a>
